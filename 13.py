@@ -3,10 +3,7 @@ def remove_given_element(arr,target):
     if target>=len(arr):
         return ans
     
-    # for i in range(len(arr)):
-    #     if arr[i] == target:
-    #         index = i
-    #         break
+    
     
 
     ans = list()
